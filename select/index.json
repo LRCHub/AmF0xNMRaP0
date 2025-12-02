@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "風よ",
+  "base_artist": "Fujii Kaze",
+  "createdAt": "2025-12-02T19:22:25.727791Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "風よ",
+      "artist": "Fujii Kaze",
+      "has_synced": true,
+      "path": "select/01_風よ_Fujii_Kaze.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "風よ 0074",
+      "artist": "服部隆之 Presents GUNDAM THE ORIGIN featuring 石田匠",
+      "has_synced": true,
+      "path": "select/02_風よ_0074_服部隆之_Presents_GUNDAM_THE_ORIGIN_featuring_石田匠.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "風よ - Kazeyo",
+      "artist": "Fujii Kaze",
+      "has_synced": true,
+      "path": "select/03_風よ_-_Kazeyo_Fujii_Kaze.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "風よ 0074",
+      "artist": "服部隆之 Presents GUNDAM THE ORIGIN",
+      "has_synced": true,
+      "path": "select/04_風よ_0074_服部隆之_Presents_GUNDAM_THE_ORIGIN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "風よ",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_01_風よ_藤井_風.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "風よ",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_02_風よ_藤井_風.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "風よ",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_03_風よ_藤井_風.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "風よ",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_04_風よ_藤井_風.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "風よ (Fujii Kaze Stadium Live \"Feelin' Good\")",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_05_風よ_(Fujii_Kaze_Stadium_Live__Feelin'_Good_)_藤井_風.txt"
+    }
+  ]
+}
